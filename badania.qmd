@@ -1,0 +1,47 @@
+---
+title: "Badania i publikacje"
+---
+
+::: {.page-cover}
+![](assets/hero-badania.jpg){alt="Biblioteka i materiały do badań"}
+:::
+
+::: {.page-intro}
+Podstrona dla projektów naukowych, raportów, publikacji, analiz ankietowych i materiałów dydaktycznych. Możesz tu prezentować dorobek, bieżące projekty oraz zasoby do pobrania.
+:::
+
+::: {.grid-2}
+::: {.card .section-card}
+### Badania
+
+Planowanie badań, konstrukcja narzędzi, analiza wyników, testowanie hipotez i przygotowanie uporządkowanego opisu metodologii.
+:::
+
+::: {.card .section-card}
+### Publikacje
+
+Artykuły, raporty, analizy eksperckie, rozdziały oraz materiały edukacyjne w przejrzystym katalogu.
+:::
+:::
+
+::: {.photo-grid}
+::: {.card .photo-card}
+![](assets/badania-1.jpg){alt="Notatki i dane badawcze"}
+
+::: {.tile-body}
+### Projekty
+
+Miejsce na krótki opis celu, metody, źródeł danych i najważniejszych rezultatów projektu.
+:::
+:::
+
+::: {.card .photo-card}
+![](assets/badania-2.jpg){alt="Książki na półce"}
+
+::: {.tile-body}
+### Biblioteka wiedzy
+
+Lista materiałów, linki do publikacji, prezentacji, raportów lub danych pomocniczych.
+:::
+:::
+:::

@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Laboratorium Wiedzy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Start
+      - href: o-mnie.qmd
+        text: O mnie
+      - href: ai-analiza.qmd
+        text: AI i analiza danych
+      - href: badania.qmd
+        text: Badania i publikacje
+      - href: konferencje.qmd
+        text: Konferencje i szkolenia
+      - href: mieszkania.qmd
+        text: Doradztwo mieszkaniowe
+      - href: aktualnosci.qmd
+        text: Aktualności
+      - href: kontakt.qmd
+        text: Kontakt
+  page-footer:
+    left: "Laboratorium Wiedzy"
+    right: "Strona zbudowana w Quarto"
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+
+editor: visual

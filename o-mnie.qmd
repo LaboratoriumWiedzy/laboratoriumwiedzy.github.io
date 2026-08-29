@@ -1,0 +1,31 @@
+---
+title: "O mnie"
+---
+
+::: {.page-intro}
+Nazywam się **Artur Borcuch**. Zajmuję się analizą danych, metodologią badań oraz praktycznymi zastosowaniami sztucznej inteligencji w edukacji, pracy eksperckiej i organizacjach.
+:::
+
+::: {.grid-2}
+::: {.card .section-card}
+### Podejście
+
+Łączę perspektywę badawczą z praktyką pracy na danych. Zależy mi na tym, aby wyniki analiz były poprawne metodologicznie, zrozumiałe i użyteczne w podejmowaniu decyzji.
+:::
+
+::: {.card .section-card}
+### Obszary zainteresowań
+
+- analiza danych społecznych i ekonomicznych,
+- metodologia badań,
+- uczenie maszynowe i AI,
+- edukacja cyfrowa,
+- raportowanie i wizualizacja danych.
+:::
+:::
+
+::: {.callout-box}
+### Współpraca
+
+Mogę wesprzeć projekt na etapie planowania badania, przygotowania danych, analizy, interpretacji wyników, opracowania raportu albo przygotowania szkolenia.
+:::

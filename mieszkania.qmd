@@ -1,0 +1,47 @@
+---
+title: "Doradztwo mieszkaniowe"
+---
+
+::: {.page-cover}
+![](assets/hero-mieszkania.jpg){alt="Miejska architektura mieszkaniowa"}
+:::
+
+::: {.page-intro}
+Przestrzeń dla uporządkowanego wsparcia przy podejmowaniu decyzji mieszkaniowych: analiza potrzeb, porównywanie opcji, checklisty i jasne kolejne kroki.
+:::
+
+::: {.grid-2}
+::: {.card .section-card}
+### Analiza potrzeb
+
+Ustalenie priorytetów: lokalizacja, budżet, komunikacja, standard, potencjał nieruchomości i ryzyka.
+:::
+
+::: {.card .section-card}
+### Proces krok po kroku
+
+Uporządkowanie informacji, porównanie wariantów i przygotowanie praktycznej listy działań.
+:::
+:::
+
+::: {.photo-grid}
+::: {.card .photo-card}
+![](assets/mieszkania-1.jpg){alt="Osiedle i miejska zabudowa"}
+
+::: {.tile-body}
+### Rynek i lokalizacja
+
+Miejsce na opisy kryteriów lokalizacyjnych, typów nieruchomości i sposobów oceny oferty.
+:::
+:::
+
+::: {.card .photo-card}
+![](assets/mieszkania-2.jpg){alt="Jasne wnętrze mieszkania"}
+
+::: {.tile-body}
+### Decyzja bez chaosu
+
+Prosty plan procesu i materiały, które pomagają przejść od pytania do konkretnego działania.
+:::
+:::
+:::

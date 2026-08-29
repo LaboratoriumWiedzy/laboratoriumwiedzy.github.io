@@ -1,0 +1,42 @@
+---
+title: "AI i analiza danych"
+---
+
+::: {.page-cover}
+![](assets/hero-ai.jpg){alt="Analiza danych i praca z technologią"}
+:::
+
+::: {.page-intro}
+Praktyczne wsparcie dla projektów opartych na danych: od przygotowania materiału badawczego, przez analizę i wizualizację, po automatyzację powtarzalnych zadań z wykorzystaniem narzędzi AI.
+:::
+
+::: {.photo-grid}
+::: {.card .photo-card}
+![](assets/ai-1.jpg){alt="Wizualizacja danych na ekranie"}
+
+::: {.tile-body}
+### Analizy i raporty
+
+Analiza ankiet, danych społecznych, ekonomicznych i edukacyjnych oraz przygotowanie czytelnych raportów.
+:::
+:::
+
+::: {.card .photo-card}
+![](assets/ai-2.jpg){alt="Zespół podczas pracy analitycznej"}
+
+::: {.tile-body}
+### Automatyzacja pracy
+
+Projektowanie prostych, powtarzalnych procesów dla danych, dokumentów, podsumowań i materiałów roboczych.
+:::
+:::
+:::
+
+## Zakres współpracy
+
+- analizy w R, Pythonie i Excelu,
+- porządkowanie danych oraz przygotowanie zmiennych,
+- interpretacja wyników statystycznych,
+- wizualizacja i raportowanie,
+- konsultacje dotyczące AI i modeli językowych,
+- szkolenia dla zespołów.

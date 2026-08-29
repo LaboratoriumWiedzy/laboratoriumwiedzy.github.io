@@ -1,0 +1,30 @@
+---
+title: "Aktualności"
+---
+
+::: {.page-intro}
+Tu publikuj krótkie informacje o nowych materiałach, wydarzeniach, szkoleniach, publikacjach i projektach.
+:::
+
+::: {.post-list}
+::: {.card .post}
+<time datetime="2026-08-29">29 sierpnia 2026</time>
+### Start nowej strony Laboratorium Wiedzy
+
+Serwis został rozbudowany o podstrony poświęcone analizie danych, badaniom, szkoleniom oraz doradztwu mieszkaniowemu.
+:::
+
+::: {.card .post}
+<time datetime="2026-09-01">1 września 2026</time>
+### Miejsce na kolejną aktualność
+
+W tym miejscu dodaj krótki opis informacji, a później — jeśli chcesz — link do pełnego wpisu.
+:::
+
+::: {.card .post}
+<time datetime="2026-09-15">15 września 2026</time>
+### Miejsce na wydarzenie lub publikację
+
+Możesz informować o konferencjach, warsztatach, nowych raportach i materiałach edukacyjnych.
+:::
+:::
