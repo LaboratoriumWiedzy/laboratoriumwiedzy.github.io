@@ -1,0 +1,28 @@
+---
+title: "Aktualności"
+page-layout: article
+---
+
+# Aktualności
+
+::: {.bento-grid}
+::: {.category-card .small}
+### Konferencje
+Wpisy o nowych wydarzeniach, terminach i wynikach naboru abstraktów.
+:::
+
+::: {.category-card .small}
+### Projekty
+Nowe inicjatywy badawcze, granty i partnerstwa.
+:::
+
+::: {.category-card .small}
+### Doradztwo
+Nowe usługi, checklisty, materiały i case studies.
+:::
+
+::: {.category-card .wide}
+### Publikacje i analizy
+Miejsce na zajawki artykułów, raportów, komentarzy eksperckich i materiałów edukacyjnych.
+:::
+:::
